@@ -34,4 +34,4 @@ I am a computer science student. My professional aim is to become a Web Develope
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=KN2222&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&stroke=DCDFE4)](https://git.io/streak-stats) -->
 
-[![Khang Tran's github activity graph](https://activity-graph.herokuapp.com/graph?username=KN2222)](https://github.com/KN2222)
+<!-- [![Khang Tran's github activity graph](https://activity-graph.herokuapp.com/graph?username=KN2222)](https://github.com/KN2222) -->
