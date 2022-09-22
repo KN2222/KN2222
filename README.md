@@ -24,7 +24,7 @@ I am a computer science student. My professional aim is to become a Web Develope
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight" alt="Top Langs" style="max-height: 195px; width: auto; object-fit: scale-down;"/>
   </div>
    <img src="https://streak-stats.demolab.com?user=KN2222&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&stroke=DCDFE4" alt="GitHub Streak"/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=KN2222" alt="Activity Graph"/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=KN2222&theme=synthwave-84" alt="Activity Graph"/>
 </div>
 
 
