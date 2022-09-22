@@ -21,7 +21,7 @@ I am a computer science student. My professional aim is to become a Web Develope
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=KN2222&show_icons=true&theme=tokyonight" alt="GitHub stats" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight" alt="Top Langs" style="max-height: 195px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight" alt="Top Langs" style="max-height: 195px; width: auto; object-fit: scale-down;"/>
   </div>
 </div>
 
