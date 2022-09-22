@@ -21,10 +21,17 @@ I am a computer science student. My professional aim is to become a Web Develope
 ### 📈 Github stats
 
 <div align="center"> 
-  <div style="display: flex;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KN2222&show_icons=true&theme=tokyonight" alt="GitHub stats" style="vertical-align: top;" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight" alt="Top Langs"/>
-  </div>
+<details>
+    <summary>GitHub Profile Stats</summary>
+        <div style="display: flex;">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KN2222&show_icons=true&theme=tokyonight" alt="GitHub stats" style="vertical-align: top;" />
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight" alt="Top Langs"/>
+        </div>
+</details>
+
+
+
+  
    <img width= "720em" src="https://activity-graph.herokuapp.com/graph?username=KN2222&theme=synthwave-84" alt="Activity Graph"/>
 </div>
 
@@ -38,7 +45,3 @@ I am a computer science student. My professional aim is to become a Web Develope
 
 #
 
-<detail>
-    <summary><h3>test</h3></summary>
-        loram
-</details>
