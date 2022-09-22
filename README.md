@@ -17,6 +17,15 @@ I am a computer science student. My professional aim is to become a Web Develope
 ![](https://visitor-badge.laobi.icu/badge?page_id=KN2222.KN2222&left_color=red&right_color=green)
 [![Github](https://img.shields.io/github/followers/KN2222?label=Follow&style=for-the-badge)](https://github.com/KN2222)
 
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KN2222&show_icons=true&theme=tokyonight" alt="GitHub stats" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight" alt="Top Langs"/>
+  </div>
+</div>
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KN2222&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight)
