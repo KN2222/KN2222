@@ -8,7 +8,7 @@
 
 <!-- ### [![Github](https://img.shields.io/github/followers/KN2222?label=Follow&style=for-the-badge)](https://github.com/KN2222) -->
 
-#
+<!-- #
 
 ### 🔥 Streak stats
 
@@ -38,7 +38,7 @@
     <div align="center"> 
         <img width= "720em" src="https://activity-graph.herokuapp.com/graph?username=KN2222&theme=synthwave-84" alt="Activity Graph"/>
     </div>
-</details>
+</details> -->
 
 
 
