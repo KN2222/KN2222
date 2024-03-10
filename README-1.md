@@ -9,5 +9,7 @@
 #
 
 ### 📈 Github stats
+ ![GitHub Streak](https://streak-stats.demolab.com?)
+ <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KN2222&theme=tokyonight)
- ![GitHub Streak](https://streak-stats.demolab.com?user=KN2222&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&stroke=DCDFE4)](https://git.io/streak-stats)
+user=KN2222&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&stroke=DCDFE4)
