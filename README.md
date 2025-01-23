@@ -29,7 +29,13 @@
 <!-- </a> -->
 </div>
 
-
 <div align="center">
-    <img  width= "720em" src="https://streak-stats.demolab.com?user=KN2222&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&stroke=DCDFE4" alt="GitHub Streak"/>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KN2222&theme=github_dark)
+
 </div>
+
+
+<!-- <div align="center">
+    <img  width= "720em" src="https://streak-stats.demolab.com?user=KN2222&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&stroke=DCDFE4" alt="GitHub Streak"/>
+</div> -->
