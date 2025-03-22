@@ -21,12 +21,17 @@
 
 <div align="center">
 <!--    <a href="https://github.com/devxb/gitanimals"> -->
-<img
+<!-- <img
   src="https://render.gitanimals.org/farms/KN2222"
   width="1000"
   height="300"
-/>
+/> -->
 <!-- </a> -->
+  <img
+    src="https://render.gitanimals.org/lines/KN2222?pet-id=691131475989617374"
+    width="600"
+    height="120"
+  />
 </div>
 
 <div align="center">
