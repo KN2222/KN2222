@@ -28,9 +28,9 @@
 /> -->
 <!-- </a> -->
   <img
-    src="https://render.gitanimals.org/lines/KN2222?pet-id=691131475989617374"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/KN2222?pet-id=710310828213826054"
+    width="1000"
+    height="300"
   />
 </div>
 
