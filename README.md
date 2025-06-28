@@ -18,8 +18,11 @@
 
 
 
-
+<div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+</div>
 <div align="center">
+
 <!--    <a href="https://github.com/devxb/gitanimals"> -->
 <!-- <img
   src="https://render.gitanimals.org/farms/KN2222"
@@ -30,7 +33,7 @@
   <img
     src="https://render.gitanimals.org/lines/KN2222?pet-id=710310828213826054"
     width="1000"
-    height="300"
+    height="200"
   />
 </div>
 
